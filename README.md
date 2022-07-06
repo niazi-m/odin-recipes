@@ -24,4 +24,6 @@ indicates a possessive. Here, the implication is plurality. A hyphen, while stra
 I promise I'm fun at parties.
 
 ## Self Reflection
-To be done after the project is completed.
+This project taught me nothing new, but I did refresh my HTML for the umpteenth time to the umpteenth power. So I brushed up on my skills and got stronger in basic website building without styles. 
+
+I also sat through the arduous process of designing content for the web, which reminded me of how important content creators are in making us engineers money and keeping the web economy going strong.
