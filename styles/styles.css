@@ -1,12 +1,24 @@
-div {
-    background-color: red;
+.headline {
+    background-color: #4f01ab;
     color: white;
-    size: 32px;
-    align-content: center;
-    font-weight: bold;
+    font-size:32px;
+    font-weight:bold;
+    text-align:center;
+}
+
+body {
+    background-color:#4f01ab;
+    color: white;
 }
 
 button {
-    background-color: orange;
-    font-size: 18px;
+    size:50px;
+    width:300px;
+    height:600px;
+    font-weight:bold;
+    background-color: #8def51;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    align-items: center;
 }
